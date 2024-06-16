@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="_spaceColor">#121212</color>
+    <color name="_darkerMainColor">#121212</color>
+    <color name="_mainColor">#1A1A1A</color>
+    <color name="_sideColor">#575757</color>
+    <color name="_textColor">#BABABA</color>
+    <color name="_flatWhiteColor">#ffffff</color>
+    <color name="_duckBodyColor">#FFEB3C</color>
+    <color name="_duckAbsorberColor">#FF8E3C</color>
+    <color name="_duckEyeColor">#463020</color>
+    <color name="_gitColor">#5f3dc4</color>
+    <color name="_coolRedColor">#c12120</color>
+    <color name="_redColor">#BB0000</color>
+    <color name="_yellowColor">#C7CA00</color>
+    <color name="_blueColor">#0000B9</color>
+    <color name="_cyanColor">#00AC93</color>
+
+
+</resources>
